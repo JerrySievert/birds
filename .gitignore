@@ -1,0 +1,4 @@
+node_modules
+.migrations.json
+migrations
+.DS_Store
