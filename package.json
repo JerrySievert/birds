@@ -1,10 +1,10 @@
 {
   "name": "birds",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A migration package for esmodules.",
   "main": "index.mjs",
   "scripts": {
-    "test": "node tests/index.mjs"
+    "test": "st -spec tests/index.mjs"
   },
   "author": "Jerry Sievert (code@legitimatesounding.com)",
   "license": "BSD-3-Clause",
@@ -13,9 +13,6 @@
     "birds": "./bin/birds.mjs"
   },
   "devDependencies": {
-    "st": "git+https://github.com/JerrySievert/st.git"
-  },
-  "dependencies": {
-    "birds": "^0.0.1"
+    "st": "https://github.com/JerrySievert/st.git"
   }
 }

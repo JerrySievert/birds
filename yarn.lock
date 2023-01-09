@@ -2,11 +2,11 @@
 # yarn lockfile v1
 
 
-"birds@^0.0.1":
-  "integrity" "sha512-qvBz251IGntDiOCEswj+lLg5FpuGjWSzEvA90orzjYSqmGq2MjRjzGqGh4kHNW5Gh0B2ubB79gagD7Nj5Ft7YQ=="
-  "resolved" "https://registry.npmjs.org/birds/-/birds-0.0.1.tgz"
-  "version" "0.0.1"
+birds@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.npmjs.org/birds/-/birds-0.0.1.tgz"
+  integrity sha512-qvBz251IGntDiOCEswj+lLg5FpuGjWSzEvA90orzjYSqmGq2MjRjzGqGh4kHNW5Gh0B2ubB79gagD7Nj5Ft7YQ==
 
-"st@git+https://github.com/JerrySievert/st.git":
-  "resolved" "git+ssh://git@github.com/JerrySievert/st.git#f4ad111c7dab6794810e448cff96dacd9ed16f22"
-  "version" "1.0.1"
+"st@https://github.com/JerrySievert/st.git":
+  version "1.1.0"
+  resolved "https://github.com/JerrySievert/st.git#9aa2db808686279912c95191129424d7aefb30c2"
